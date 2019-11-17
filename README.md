@@ -1,6 +1,10 @@
 # Natural Language Processing with Deep Learning
 
-## Word Vector
+## Word Embedding
+
+### Global Vectors for Word Representation (GloVe)
+
+[The GloVe Page](https://nlp.stanford.edu/projects/glove/)
 
 ### Papers
 
@@ -10,7 +14,7 @@ Distributed Representations of Words and Phrases and their Compositionality (neg
 
 GloVe: Global vectors for word representation (original GloVe paper)
 
-### Readings
+### Word Vector
 
 [Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
 
