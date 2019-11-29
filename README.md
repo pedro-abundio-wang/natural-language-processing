@@ -1,21 +1,31 @@
 # Natural Language Processing with Deep Learning
 
-## Word Embedding
+## Word Vectors
 
-### Global Vectors for Word Representation (GloVe)
+### Word2Vec
 
-[The GloVe Page](https://nlp.stanford.edu/projects/glove/)
+#### Papers
 
-### Papers
+[Bengio et al., 2003] A neural probabilistic language model.
 
-Efficient Estimation of Word Representations in Vector Space (original word2vec paper)
+[Collobert et al., 2011] Natural language processing (almost) from scratch.
 
-Distributed Representations of Words and Phrases and their Compositionality (negative sampling paper)
+[Mikolov et al., 2013] Efficient estimation of word representations in vector space. (original word2vec paper)
+
+[Rong, 2014] word2vec parameter learning explained.
+
+[Tomas, 2013] Distributed Representations of Words and Phrases and their Compositionality (negative sampling paper)
+
+#### Math
+
+[Singular Value Decomposition Tutorial](https://davetang.org/file/Singular_Value_Decomposition_Tutorial.pdf)
+
+#### Reading
+
+[overview of Word2vec](https://myndbook.com/view/4900)
+
+### GloVe
+
+#### Papers
 
 GloVe: Global vectors for word representation (original GloVe paper)
-
-### Word Vector
-
-[Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
-
-[Word2Vec Tutorial - Negative Sampling](http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/)
