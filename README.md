@@ -22,7 +22,7 @@
 
 #### Reading
 
-[overview of Word2vec](https://myndbook.com/view/4900)
+
 
 ### GloVe
 
