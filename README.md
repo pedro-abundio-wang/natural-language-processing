@@ -12,9 +12,9 @@
 
 [Mikolov et al., 2013] Efficient estimation of word representations in vector space. (original word2vec paper)
 
-[Rong, 2014] word2vec parameter learning explained.
+[Rong et al., 2014] word2vec parameter learning explained.
 
-[Tomas, 2013] Distributed Representations of Words and Phrases and their Compositionality (negative sampling paper)
+[Tomas et al., 2013] Distributed Representations of Words and Phrases and their Compositionality (negative sampling paper)
 
 #### Math
 
@@ -28,4 +28,4 @@
 
 #### Papers
 
-GloVe: Global vectors for word representation (original GloVe paper)
+[Pennington et al., 2014] GloVe: Global vectors for word representation (original GloVe paper)
