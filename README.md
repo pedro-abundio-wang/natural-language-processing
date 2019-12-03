@@ -29,3 +29,7 @@
 #### Papers
 
 [Pennington et al., 2014] GloVe: Global vectors for word representation (original GloVe paper)
+
+[Yin et al., 2018] On the Dimensionality of Word Embedding
+
+[Huang et al, 2012] Improving Word Representations Via Global Context And Multiple Word Prototypes
