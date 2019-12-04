@@ -32,4 +32,4 @@
 
 [Yin et al., 2018] On the Dimensionality of Word Embedding
 
-[Huang et al, 2012] Improving Word Representations Via Global Context And Multiple Word Prototypes
+[Huang et al., 2012] Improving Word Representations Via Global Context And Multiple Word Prototypes
