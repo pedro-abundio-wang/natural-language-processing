@@ -2,6 +2,8 @@
 
 ## Word Vectors
 
+300 features is what Google used in their published model trained on the Google news dataset (you can download it from [here](https://code.google.com/archive/p/word2vec/)). The number of features is a "hyper parameter" that you would just have to tune to your application (that is, try different values and see what yields the best results).
+
 ### Word2Vec
 
 #### Papers
@@ -18,11 +20,15 @@
 
 #### Math
 
-[Singular Value Decomposition Tutorial](https://davetang.org/file/Singular_Value_Decomposition_Tutorial.pdf)
+Singular Value Decomposition Tutorial
 
 #### Reading
 
+[Google's trained Word2Vec model in Python](http://mccormickml.com/2016/04/12/googles-pretrained-word2vec-model-in-python/)
 
+[Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
+
+[Word2Vec Tutorial - Negative Sampling](http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/)
 
 ### GloVe
 
