@@ -11,6 +11,7 @@ import os
 import logging
 from collections import Counter
 from . general_utils import get_minibatches
+from parser_transitions import minibatch_parse
 
 from tqdm import tqdm
 import torch
@@ -246,7 +247,6 @@ class Parser(object):
 
         model = ModelWrapper(self, dataset, sentence_id_to_idx)
         dependencies = minibatch_parse(sentences, model, eval_batch_size)
-
         UAS = all_tokens = 0.0
         with tqdm(total=len(dataset)) as prog:
             for i, ex in enumerate(dataset):
